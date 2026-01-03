@@ -1,6 +1,8 @@
 # Applebaum-Aligned Indicators of Institutional Capture
 
 This document maps mechanisms emphasized in Anne Applebaum’s *Autocracy, Inc.* to observable institutional indicators available in the V-Dem dataset. Indicators are classified as **primary** or **secondary** based on their centrality to the institutional capture mechanism. The final column indicates whether each indicator is used in the main analysis.
+This mapping is not exhaustive. Several mechanisms central to Applebaum’s account—particularly offshore finance, transnational elite networks, and financial secrecy—are not directly observable in cross-national panel data and are therefore noted but not operationalised.
+
 
 | Mechanism | Indicator Type | Conceptual Indicator | V-Dem Variable | Used in Main Analysis |
 |---------|----------------|----------------------|----------------|----------------------|
