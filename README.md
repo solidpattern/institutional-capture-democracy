@@ -50,12 +50,16 @@ This project is informed by the institutional capture framework articulated in A
 
 A mapping of Applebaum-aligned primary and secondary indicators to observable V-Dem measures is provided in `docs/applebaum_indicators.md`, with the indicators used in the main analysis clearly marked.
 
+
 ## Repository Structure
+
+
 ├── notebooks/ # Data preparation, diagnostics, and models
 ├── data/ # Data access instructions (raw data not included)
 ├── docs/ # Figures and supplementary materials
 ├── paper_draft.md # Draft paper text
 ├── requirements.txt # Python dependencies
+
 
 ## Data Availability
 
