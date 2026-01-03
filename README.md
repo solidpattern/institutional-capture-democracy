@@ -52,13 +52,13 @@ A mapping of Applebaum-aligned primary and secondary indicators to observable V-
 
 
 ## Repository Structure
-
-
-├── notebooks/ # Data preparation, diagnostics, and models
-├── data/ # Data access instructions (raw data not included)
-├── docs/ # Figures and supplementary materials
-├── paper_draft.md # Draft paper text
-├── requirements.txt # Python dependencies
+```
+├── notebooks/        # Data preparation, diagnostics, and models
+├── data/             # Data access instructions (raw data not included)
+├── docs/             # Figures and supplementary materials
+├── paper_draft.md    # Draft paper text
+├── requirements.txt  # Python dependencies
+```
 
 
 ## Data Availability
