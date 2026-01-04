@@ -9,10 +9,14 @@ This repository contains a data science analysis of early-warning indicators of 
 Contemporary democratic decline rarely occurs through abrupt electoral collapse. Instead, erosion unfolds gradually as political and economic elites capture oversight institutions, manipulate rules, and narrow political competition while maintaining the outward appearance of elections.
 
 Inspired by Anne Applebaum’s *Autocracy, Inc.* and the rise in democratic backsliding events over the past decade, this project examines which observable institutional indicators precede democratic decline across contemporary states. While direct cross-national measures of offshore finance and elite wealth flows are unavailable in panel form, institutional indicators can reveal the conditions under which elite-driven capture becomes politically consequential.
+---
+
+## Analysis overview and results
 
 ## Data
 
-- **Source:** Varieties of Democracy (V-Dem) Country–Year Dataset v15  
+- **Primary Source:** Varieties of Democracy (V-Dem) Country–Year Dataset v15
+- **Supplementary sources:** World Bank World Development Indicators (WDI), KAOPEN Index (Chinn–Ito)
 - **Unit of analysis:** Country–year  
 - **Sample:** 108 contemporary sovereign states (non-historical polities observed since 2000)  
 - **Period:** Post-1990  
@@ -39,6 +43,8 @@ Democratic backsliding is operationalized as a substantive year-to-year decline 
 - Systemic corruption and weakened institutional constraints are associated with higher backsliding risk.
 - The availability of alternative sources of information does not reliably prevent democratic erosion under conditions of institutional capture.
 - A composite capture index significantly predicts backsliding in the subsequent year, supporting a gradual institutional erosion mechanism rather than abrupt regime breakdown.
+
+
 
 ## Interpretation
 
