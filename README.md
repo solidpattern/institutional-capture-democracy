@@ -10,8 +10,6 @@ Contemporary democratic decline rarely occurs through abrupt electoral collapse.
 
 Inspired by Anne Applebaum’s *Autocracy, Inc.* and the rise in democratic backsliding events over the past decade, this project examines which observable institutional indicators precede democratic decline across contemporary states. While direct cross-national measures of offshore finance and elite wealth flows are unavailable in panel form, institutional indicators can reveal the conditions under which elite-driven capture becomes politically consequential.
 
-## Analysis overview and results
-
 ## Data
 
 - **Primary Source:** Varieties of Democracy (V-Dem) Country–Year Dataset v15
@@ -43,8 +41,14 @@ Democratic backsliding is operationalized as a substantive year-to-year decline 
 
 ## Key Findings
 
-### Political capture rises before democratic backsliding
+- Interference with legislatures and executive control over electoral rules consistently precede democratic backsliding.
+- Political exclusion significantly increases the probability of subsequent democratic decline.
+- Systemic corruption and weakened institutional constraints are associated with higher backsliding risk.
+- The availability of alternative sources of information does not reliably prevent democratic erosion under conditions of institutional capture.
+- A composite capture index significantly predicts backsliding in the subsequent year, supporting a gradual institutional erosion mechanism rather than abrupt regime breakdown.
 
+
+### Political capture rises before democratic backsliding
 
 ![Political capture event study](docs/figures/Figure_1.png)
 
@@ -58,18 +62,9 @@ Democratic backsliding is operationalized as a substantive year-to-year decline 
 
 ### Capital mobility conditions democratic backsliding risk
 
-
 ![Backsliding risk by capture and capital mobility](docs/figures/Figure_3.png)
 
 *Figure 3. The increase in democratic backsliding risk associated with institutional capture is larger in countries with lower capital mobility, consistent with arguments about elite exit options and insulation from accountability.*
-
-
-- Interference with legislatures and executive control over electoral rules consistently precede democratic backsliding.
-- Political exclusion significantly increases the probability of subsequent democratic decline.
-- Systemic corruption and weakened institutional constraints are associated with higher backsliding risk.
-- The availability of alternative sources of information does not reliably prevent democratic erosion under conditions of institutional capture.
-- A composite capture index significantly predicts backsliding in the subsequent year, supporting a gradual institutional erosion mechanism rather than abrupt regime breakdown.
-
 
 
 ## Interpretation
