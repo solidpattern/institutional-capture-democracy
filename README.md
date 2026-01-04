@@ -105,3 +105,10 @@ Core diagnostics and baseline models are complete. Ongoing work focuses on robus
 ## Disclaimer
 
 This analysis identifies institutional conditions consistent with elite-driven capture but does not directly measure offshore finance, informal elite networks, or wealth flows emphasized in qualitative accounts of contemporary autocracy.
+
+
+## Visual reflection: regime trajectories and reversibility
+
+The animation below illustrates changes in regime status over time using alternative polyarchy thresholds. Even under conservative classification, a small number of countries move from solid democracy to autocracy and back again within a few decades. This highlights the non-linear and reversible nature of democratic trajectories and motivates a focus on early-warning indicators rather than regime endpoints.
+
+![Democratic regime trajectories over time](docs/figures/Additional_Figure_9.png)
