@@ -111,4 +111,4 @@ This analysis identifies institutional conditions consistent with elite-driven c
 
 The animation below illustrates changes in regime status over time using alternative polyarchy thresholds. Even under conservative classification, a small number of countries move from solid democracy to autocracy and back again within a few decades. This highlights the non-linear and reversible nature of democratic trajectories and motivates a focus on early-warning indicators rather than regime endpoints.
 
-![Democratic regime trajectories over time](docs/figures/Additional_Figure_9.png)
+![Democratic regime trajectories over time](docs/figures/global_regime_evolution_1990_2024.gif)
