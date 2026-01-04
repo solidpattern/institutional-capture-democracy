@@ -29,7 +29,7 @@ Democratic backsliding is operationalized as a substantive year-to-year decline 
 
 ![Democratic Backsliding Over Time](docs/figures/figure_0_backsliding_over_time.png)
 
-Figure 0. The figure shows the share of countries experiencing democratic backsliding each year. Coverage increases substantially in the post-1990 period as more countries enter the dataset. The figure is descriptive and intended for contextual motivation only.
+*Figure 0. The figure shows the share of countries experiencing democratic backsliding each year. Coverage increases substantially in the post-1990 period as more countries enter the dataset. The figure is descriptive and intended for contextual motivation only.*
 
 
 
@@ -43,6 +43,27 @@ Figure 0. The figure shows the share of countries experiencing democratic backsl
 - Construction of a composite **institutional capture index** aggregating corruption, clientelism, oversight interference, rule manipulation, political exclusion, and judicial constraints
 
 ## Key Findings
+
+### Political capture rises before democratic backsliding
+
+
+![Political capture event study](docs/figures/Figure_1.png)
+
+*Figure 1. Political capture increases steadily in the years preceding the first democratic backsliding event (t = 0), indicating that institutional capture is a leading condition rather than a contemporaneous feature of democratic decline.*
+
+### Backsliding risk increases with institutional capture
+
+![Predicted backsliding risk](docs/figures/Figure_2.png)
+
+*Figure 2. Higher levels of institutional capture are associated with a substantially higher predicted probability of democratic backsliding in the subsequent year.*
+
+### Capital mobility conditions democratic backsliding risk
+
+
+![Backsliding risk by capture and capital mobility](docs/figures/Figure_3.png)
+
+*Figure 3.The increase in democratic backsliding risk associated with institutional capture is larger in countries with lower capital mobility, consistent with arguments about elite exit options and insulation from accountability.*
+
 
 - Interference with legislatures and executive control over electoral rules consistently precede democratic backsliding.
 - Political exclusion significantly increases the probability of subsequent democratic decline.
