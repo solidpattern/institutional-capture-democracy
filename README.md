@@ -9,7 +9,6 @@ This repository contains a data science analysis of early-warning indicators of 
 Contemporary democratic decline rarely occurs through abrupt electoral collapse. Instead, erosion unfolds gradually as political and economic elites capture oversight institutions, manipulate rules, and narrow political competition while maintaining the outward appearance of elections.
 
 Inspired by Anne Applebaum’s *Autocracy, Inc.* and the rise in democratic backsliding events over the past decade, this project examines which observable institutional indicators precede democratic decline across contemporary states. While direct cross-national measures of offshore finance and elite wealth flows are unavailable in panel form, institutional indicators can reveal the conditions under which elite-driven capture becomes politically consequential.
----
 
 ## Analysis overview and results
 
@@ -27,7 +26,7 @@ The analysis emphasizes indicators with full cross-national coverage to maximize
 
 Democratic backsliding is operationalized as a substantive year-to-year decline in electoral democracy. Specifically, a backsliding event occurs when a country’s V-Dem polyarchy index declines by at least 0.01 points from the previous year. This threshold excludes trivial measurement noise while capturing meaningful institutional erosion.
 
-![Democratic Backsliding Over Time](docs/figures/figure_0_backsliding_over_time.png)
+![Democratic Backsliding Over Time](docs/figures/Figure_0.png)
 
 *Figure 0. The figure shows the share of countries experiencing democratic backsliding each year. Coverage increases substantially in the post-1990 period as more countries enter the dataset. The figure is descriptive and intended for contextual motivation only.*
 
@@ -62,7 +61,7 @@ Democratic backsliding is operationalized as a substantive year-to-year decline 
 
 ![Backsliding risk by capture and capital mobility](docs/figures/Figure_3.png)
 
-*Figure 3.The increase in democratic backsliding risk associated with institutional capture is larger in countries with lower capital mobility, consistent with arguments about elite exit options and insulation from accountability.*
+*Figure 3. The increase in democratic backsliding risk associated with institutional capture is larger in countries with lower capital mobility, consistent with arguments about elite exit options and insulation from accountability.*
 
 
 - Interference with legislatures and executive control over electoral rules consistently precede democratic backsliding.
