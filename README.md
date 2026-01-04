@@ -4,6 +4,71 @@ Early-warning indicators of democratic backsliding using V-Dem data and institut
 
 This repository contains a data science analysis of early-warning indicators of democratic backsliding, grounded in institutional capture theory and inspired by Anne Applebaum’s *Autocracy, Inc.*
 
+## Project summary
+## Why this project
+
+Democratic backsliding often occurs gradually. While late-stage indicators—such as incitement to violence or open denial of political opponents’ legitimacy—are relatively easy to spot, early warning signals are much harder to identify.
+
+This project explores which observable indicators tend to precede democratic backsliding across countries, without assuming a single dominant mechanism or a sudden breakdown of elections.
+
+---
+
+## What I test
+
+I compare multiple classes of potential early-warning indicators, including:
+
+- **Institutional indicators** (oversight interference, political exclusion, rule manipulation)
+- **Economic factors** (resource rents, corruption)
+- **Macro-financial context** (capital mobility)
+
+The aim is to assess which signals consistently appear before democratic backsliding and how they interact.
+
+---
+
+## Conceptual background
+
+Recent research on democratic backsliding emphasises that democratic erosion often unfolds through gradual institutional weakening rather than abrupt regime collapse. Some explanations focus on how elites weaken institutions to protect power and rents, while others highlight how economic conditions shape political incentives.
+
+This project places both perspectives side by side, using observable cross-national data rather than assuming a single causal pathway.
+
+---
+
+## How I do it
+
+- Use lagged indicators to preserve temporal ordering  
+- Estimate logistic regression models predicting backsliding events  
+- Compare institutional and economic predictors in the same models  
+- Use capital mobility for triangulation rather than explanation  
+
+---
+
+## Key results
+
+- Institutional indicators are strong and consistent predictors of backsliding  
+- Resource rents show weaker and less consistent associations  
+- Capital mobility conditions risk levels but does not eliminate institutional effects  
+
+---
+
+## How to interpret this
+
+The results suggest that democratic backsliding is often preceded by institutional weakening, but this does not exclude economic or financial mechanisms. Instead, institutional conditions appear to shape how economic incentives translate into political outcomes.
+
+---
+
+## Limitations
+
+- Some mechanisms (e.g. elite wealth networks and offshore finance) are not directly observable  
+- Results describe associations, not causal proof  
+- Threshold choices affect event classification  
+
+---
+
+## Why this matters
+
+Identifying early-warning signals of democratic backsliding can help researchers, analysts, and policymakers focus attention before erosion becomes irreversible, regardless of the underlying mechanism.
+
+
 ## Motivation
 
 Contemporary democratic decline rarely occurs through abrupt electoral collapse. Instead, erosion unfolds gradually as political and economic elites capture oversight institutions, manipulate rules, and narrow political competition while maintaining the outward appearance of elections.
