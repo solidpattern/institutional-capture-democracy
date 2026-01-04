@@ -24,10 +24,13 @@ Inspired by Anne Applebaum’s *Autocracy, Inc.* and the rise in democratic back
 The analysis emphasizes indicators with full cross-national coverage to maximize comparability and avoid reliance on imputation.
 
 ## Outcome: Democratic Backsliding
-![Democratic Backsliding Over Time](docs/figures/figure_0_backsliding_over_time.png)
-
 
 Democratic backsliding is operationalized as a substantive year-to-year decline in electoral democracy. Specifically, a backsliding event occurs when a country’s V-Dem polyarchy index declines by at least 0.01 points from the previous year. This threshold excludes trivial measurement noise while capturing meaningful institutional erosion.
+
+![Democratic Backsliding Over Time](docs/figures/figure_0_backsliding_over_time.png)
+Figure 0. The figure shows the share of countries experiencing democratic backsliding each year. Coverage increases substantially in the post-1990 period as more countries enter the dataset. The figure is descriptive and intended for contextual motivation only.
+
+
 
 ## Methods
 
