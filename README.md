@@ -107,4 +107,31 @@ The animation below illustrates changes in regime status over time using alterna
 
 ![Democratic regime trajectories over time](docs/figures/global_regime_evolution_1990_2024.gif)
 
-Additional robustness checks, descriptive analyses, and alternative specifications are available in the notebook files and in `docs/figures/`.
+## Key Concepts
+
+- **Democratic backsliding**  
+  A gradual decline in democratic quality over time, typically involving erosion of checks and balances, political rights, or electoral integrity rather than sudden regime collapse.
+
+- **Institutional capture**  
+  A process in which political or economic elites gain sustained influence over oversight institutions (such as courts, legislatures, or electoral authorities), allowing them to manipulate rules and limit accountability while maintaining formal democratic procedures.
+
+- **Polyarchy index (V-Dem)**  
+  A composite measure of electoral democracy capturing the extent to which political leaders are selected through free and fair elections with broad participation, political competition, and associated civil liberties.
+
+- **Clientelism**  
+  The exchange of political support for targeted material benefits, often undermining programmatic policy-making and institutional accountability.
+
+- **Capital mobility (KAOPEN Index)**  
+  The degree to which financial capital can move freely across national borders, commonly used as a proxy for elite exit options and financial openness.
+
+- **Country–year data**  
+  A panel data structure in which each observation represents one country in one specific year, enabling longitudinal analysis over time.
+
+- **Panel data**  
+  Data that track multiple units (such as countries) across multiple time periods, allowing researchers to analyse change over time.
+
+- **Lagged predictors**  
+  Explanatory variables measured in a prior time period (e.g. one year earlier) to ensure that institutional conditions precede observed outcomes.
+
+  
+#### Additional robustness checks, descriptive analyses, and alternative specifications are available in the notebook files and in `docs/figures/`.
