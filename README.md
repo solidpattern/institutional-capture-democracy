@@ -24,7 +24,7 @@ The analysis emphasizes indicators with full cross-national coverage to maximize
 
 Democratic backsliding is operationalized as a substantive year-to-year decline in electoral democracy. Specifically, a backsliding event occurs when a country’s V-Dem polyarchy index declines by at least 0.01 points from the previous year. This threshold excludes trivial measurement noise while capturing meaningful institutional erosion.
 
-![Democratic Backsliding Over Time](docs/figures/Figure_0.png)
+![Democratic Backsliding Over Time](docs/figures/Democratic_backsliding_over_time.png)
 
 *Figure 0. The figure shows the share of countries experiencing democratic backsliding each year. Coverage increases substantially in the post-1990 period as more countries enter the dataset. The figure is descriptive and intended for contextual motivation only.*
 
@@ -51,20 +51,20 @@ Democratic backsliding is operationalized as a substantive year-to-year decline 
 
 ### Political capture rises before democratic backsliding
 
-![Political capture event study](docs/figures/Figure_1.png)
+![Political capture event study](docs/figures/Political_capture_and_democratic_backsliding.png)
 
 **Figure 1. Institutional capture increases in advance of the first observed democratic backsliding event (t = 0). This pattern indicates that democratic erosion is typically preceded by a period of institutional weakening, supporting the interpretation of capture as an early-warning signal rather than something that emerges only once decline is already underway.*
 
 
 ### Backsliding risk increases with institutional capture
 
-![Predicted backsliding risk](docs/figures/Figure_2.png)
+![Predicted backsliding risk](docs/figures/Predicted_backsliding_risk_by_institutional_capture.png)
 
 **Figure 2. Predicted probabilities show that higher levels of institutional capture are associated with a substantially increased likelihood of democratic backsliding in the following year. This result highlights the practical relevance of capture measures for assessing near-term democratic risk.*
 
 ### Capital mobility conditions democratic backsliding risk
 
-![Backsliding risk by capture and capital mobility](docs/figures/Figure_3.png)
+![Backsliding risk by capture and capital mobility](docs/figures/Political_capture_and_capital_mobility.png)
 
 *Figure 3. The association between institutional capture and democratic backsliding varies by capital mobility. Capture is more strongly linked to backsliding in countries with lower capital mobility, meaning that institutional weakening is more likely to be followed by democratic decline where elites have fewer opportunities to move financial resources abroad.*
 
