@@ -41,30 +41,32 @@ Democratic backsliding is operationalized as a substantive year-to-year decline 
 
 ## Key Findings
 
-- Interference with legislatures and executive control over electoral rules consistently precede democratic backsliding.
-- Political exclusion significantly increases the probability of subsequent democratic decline.
-- Systemic corruption and weakened institutional constraints are associated with higher backsliding risk.
-- The availability of alternative sources of information does not reliably prevent democratic erosion under conditions of institutional capture.
-- A composite capture index significantly predicts backsliding in the subsequent year, supporting a gradual institutional erosion mechanism rather than abrupt regime breakdown.
+- Indicators of institutional capture increase steadily in the years preceding the first observed democratic backsliding event, indicating that institutional weakening tends to occur *before* measurable declines in electoral democracy rather than as a reaction to them (Figure 1).
+
+- Higher overall levels of institutional capture are associated with a substantially greater predicted probability of democratic backsliding in the subsequent year, suggesting that capture provides a meaningful early-warning signal of democratic erosion (Figure 2).
+
+- The relationship between institutional capture and democratic backsliding is conditioned by economic context: the increase in backsliding risk associated with capture is larger in countries with lower capital mobility, meaning that institutional capture is more likely to translate into democratic decline where economic elites have fewer opportunities to move assets abroad (Figure 3).
+
 
 
 ### Political capture rises before democratic backsliding
 
 ![Political capture event study](docs/figures/Figure_1.png)
 
-*Figure 1. Political capture increases steadily in the years preceding the first democratic backsliding event (t = 0), indicating that institutional capture is a leading condition rather than a contemporaneous feature of democratic decline.*
+**Figure 1. Institutional capture increases in advance of the first observed democratic backsliding event (t = 0). This pattern indicates that democratic erosion is typically preceded by a period of institutional weakening, supporting the interpretation of capture as an early-warning signal rather than something that emerges only once decline is already underway.*
+
 
 ### Backsliding risk increases with institutional capture
 
 ![Predicted backsliding risk](docs/figures/Figure_2.png)
 
-*Figure 2. Higher levels of institutional capture are associated with a substantially higher predicted probability of democratic backsliding in the subsequent year.*
+**Figure 2. Predicted probabilities show that higher levels of institutional capture are associated with a substantially increased likelihood of democratic backsliding in the following year. This result highlights the practical relevance of capture measures for assessing near-term democratic risk.*
 
 ### Capital mobility conditions democratic backsliding risk
 
 ![Backsliding risk by capture and capital mobility](docs/figures/Figure_3.png)
 
-*Figure 3. The increase in democratic backsliding risk associated with institutional capture is larger in countries with lower capital mobility, consistent with arguments about elite exit options and insulation from accountability.*
+*Figure 3. The association between institutional capture and democratic backsliding varies by capital mobility. Capture is more strongly linked to backsliding in countries with lower capital mobility, meaning that institutional weakening is more likely to be followed by democratic decline where elites have fewer opportunities to move financial resources abroad.*
 
 
 ## Interpretation
@@ -134,4 +136,6 @@ The animation below illustrates changes in regime status over time using alterna
   Explanatory variables measured in a prior time period (e.g. one year earlier) to ensure that institutional conditions precede observed outcomes.
 
   
-#### Additional robustness checks, descriptive analyses, and alternative specifications are available in the notebook files and in `docs/figures/`.
+Additional robustness checks, diagnostic analyses, and alternative model specifications are documented in the notebook files and in `docs/figures/`. These materials provide further detail on variable selection, model sensitivity, and exploratory results that are not included in the main README in order to maintain a clear focus on the core findings.
+
+
