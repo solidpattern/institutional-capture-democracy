@@ -26,7 +26,8 @@ Democratic backsliding is operationalized as a substantive year-to-year decline 
 
 ![Democratic Backsliding Over Time](docs/figures/Democratic_backsliding_over_time.png)
 
-*Figure 0. The figure shows the share of countries experiencing democratic backsliding each year. Coverage increases substantially in the post-1990 period as more countries enter the dataset. The figure is descriptive and intended for contextual motivation only.*
+*Figure 0. The figure shows the share of countries experiencing democratic backsliding each year. Coverage increases substantially in the post-1990 period as more countries enter the dataset. The figure is descriptive and intended for contextual motivation only.* [Figure notes](docs/figures/Democratic_backsliding_over_time.md)
+
 
 
 
